@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shadow-neobrutalist {
+    @apply shadow-[2px_2px_0px_rgba(0,0,0,1)];
+}
+
+.focus-shadow-neobrutalist {
+    @apply focus:shadow-[2px_2px_0px_rgba(0,0,0,1)];
+}
+
+.hover-shadow-neobrutalist {
+    @apply hover:shadow-[2px_2px_0px_rgba(0,0,0,1)];
+}

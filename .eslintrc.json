@@ -1,0 +1,21 @@
+{
+    "extends": [
+        "airbnb",
+        "airbnb-typescript",
+        "prettier",
+        "next/core-web-vitals"
+    ],
+    "plugins": ["prettier"],
+    "rules": {
+        "prettier/prettier": ["error"],
+        "react/jsx-filename-extension": [
+            1,
+            { "extensions": [".js", ".jsx", ".ts", ".tsx"] }
+        ],
+        "@typescript-eslint/no-throw-literal": "off",
+        "import/prefer-default-export": "off",
+        "react/jsx-no-constructed-context-values": "off",
+        "react/jsx-props-no-spreading": "off",
+        "@typescript-eslint/no-use-before-define": "off"
+    }
+}
