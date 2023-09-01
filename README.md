@@ -27,7 +27,7 @@ so the resources page should have highest priority. There should also be a link 
 ### Built With:
 * [![Next][Next.js]][Next-url]
 * [![Tailwind][TailwindCSS]][TailwindCSS-url]
-* [![Shadcn.ui][Shadcn.ui]][Shadch.ui-url]
+* [![Shadcn/ui][Shadcn.ui]][Shadcn.ui-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
