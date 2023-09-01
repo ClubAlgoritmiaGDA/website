@@ -75,5 +75,5 @@ If you need to contact any staff, here is our contact info:
 [Next-url]: https://nextjs.org/
 [TailwindCSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [TailwindCSS-url]: https://tailwindcss.com/
-[Shadcn.ui]: "images/shadcn.png"
+[Shadcn.ui]: images/shadcn.png
 [Shadcn.ui-url]: https://ui.shadcn.com/
