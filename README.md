@@ -25,13 +25,12 @@ so the resources page should have highest priority. There should also be a link 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With:
-
 * [![Next][Next.js]][Next-url]
 * [![Tailwind][TailwindCSS]][TailwindCSS-url]
 * [![Shadcn/ui][Shadcn.ui]][Shadch.ui-url]
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Getting Started -->
 ## Getting Started
@@ -45,11 +44,12 @@ yarn dev
 ```sh
 pass
 ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- Contributions -->
 ## Contributing
-TODO: Properly define steps to contribute to project
+**TODO: Properly define steps to contribute to project**
 1. Fork project
 2. Create feature branch
 3. Commit your changes
@@ -58,10 +58,13 @@ TODO: Properly define steps to contribute to project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- License -->
-TODO: Define proper GNU License.
+## License
+**TODO: Define proper GNU License.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Contact -->
 If you need to contact any staff, here is our contact info:
