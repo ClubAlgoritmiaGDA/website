@@ -61,13 +61,14 @@ pass
 
 <!-- License -->
 ## License
-**TODO: Define proper GNU License.**
+Distributed under the GNU General Public License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- Contact -->
-If you need to contact any staff, here is our contact info:
+## Contact
+If you need to contact any staff, here's our info:
 - Miguel Nguyen: [msninmx@gmail.com](msninmx@gmail.com)
 
 <!-- Links and Images -->
