@@ -27,7 +27,7 @@ so the resources page should have highest priority. There should also be a link 
 ### Built With:
 * [![Next][Next.js]][Next-url]
 * [![Tailwind][TailwindCSS]][TailwindCSS-url]
-* [![Shadcn/ui][Shadcn.ui]][Shadch.ui-url]
+* [![Shadcn.ui][Shadcn.ui]][Shadch.ui-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,5 +75,5 @@ If you need to contact any staff, here is our contact info:
 [Next-url]: https://nextjs.org/
 [TailwindCSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [TailwindCSS-url]: https://tailwindcss.com/
-[Shadcn.ui]: images/shadcn.png
+[Shadcn.ui]: https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=slashdot&logoColor=white
 [Shadcn.ui-url]: https://ui.shadcn.com/
