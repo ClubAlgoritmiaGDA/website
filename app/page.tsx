@@ -1,18 +1,15 @@
-import { buttonVariants } from '@/components/ui/button'
-import Link from 'next/link'
+import { Button } from '@/components/ui/button'
+
 
 export default function Home() {
     return (
         <main className="h-screen flex items-center justify-center flex-col">
-            <div>Hola amigues :) un boton de shadcn pa que lo vean</div>
-            <Link
-                href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-                className={buttonVariants({
-                    variant: 'default',
-                })}
-            >
-                <h1>Click me!</h1>
-            </Link>
+            <div className="text-red-500 bg-green-200 text-sm hover:text-4xl transition-all duration-200">
+                Hoasdala amigues :) un boton de shadcn pa que lo vean
+            </div>
+            <Button variant={'destructive'} size={'lg'}>
+                Hola
+            </Button>
         </main>
     )
 }
