@@ -37,12 +37,12 @@ so the resources page should have highest priority. There should also be a link 
 **TODO: Show sections for local testing**
 ### Prerequisites
 ```sh
-yarn
-yarn dev
+pass
 ```
 ### Installation
 ```sh
-pass
+yarn
+yarn run dev
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
