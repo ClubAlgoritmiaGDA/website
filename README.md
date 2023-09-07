@@ -63,6 +63,7 @@ Distributed under the GNU General Public License. See `LICENSE` for more informa
 <!-- Contact -->
 ## Contact
 If you need to contact any staff, here's our info:
+[**Whatsapp Group**](https://chat.whatsapp.com/CIeALaxFs1o80hkf1Zgtgt)
 - Miguel Nguyen: [msninmx@gmail.com](msninmx@gmail.com)
 
 <!-- Links and Images -->
