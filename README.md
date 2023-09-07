@@ -34,12 +34,6 @@ so the resources page should have highest priority. There should also be a link 
 
 <!-- Getting Started -->
 ## Getting Started
-**TODO: Show sections for local testing**
-### Prerequisites
-```sh
-pass
-```
-### Installation
 ```sh
 yarn
 yarn run dev
