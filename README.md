@@ -44,7 +44,7 @@ yarn run dev
 <!-- Contributions -->
 ## Contributing
 **TODO: Properly define steps to contribute to project**
-1. Fork project
+1. Clone repository
 2. Create feature branch
 3. Commit your changes
 4. Push to local branch
