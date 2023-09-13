@@ -1,37 +1,75 @@
+<!-- Set 'back to top' link -->
+<a name="readme-top">
+
+<!-- Project Header -->
+<div align="center">
+  <a ref="https://github.com/ClubAlgoritmiaGDA/website">
+    <img src="images/logo.jpeg" alt="Logo" width="80" height="80">
+  </a>
+<h2 align="center">Club Algorítmia GDA</h2>
+
+  <p align="center">
+  Club Website
+  </p>
+</div>
+
+<!-- Table of contents #TODO -->
+
+<!-- About the project -->
+## About The Project
+
+A simple, easy to use website containing 4 main sections, a landing page, a resources page, an events calendar,
+and information about the club. The main purpose of the site is to host all the places people can go to learn more,
+so the resources page should have highest priority. There should also be a link to the main group chat.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With:
+* [![Next][Next.js]][Next-url]
+* [![Tailwind][TailwindCSS]][TailwindCSS-url]
+* [![Shadcn/ui][Shadcn.ui]][Shadcn.ui-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- Getting Started -->
 ## Getting Started
-
-First, run the development server:
-
-```bash
+```sh
 yarn
-yarn dev
-
+yarn run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Templates
-
-- It is a requirement to follow the way components are defined as in `components/ui/button.tsx`, this component was added using Shadcn's CLI [Read more...](https://ui.shadcn.com/docs), however you can add your own component following the code style as the template button
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Stack
-- Next.js
-- TailwindCSS
-- Shadcn/ui
+<!-- Contributions -->
+## Contributing
+**TODO: Properly define steps to contribute to project**
+1. Clone repository
+2. Create feature branch
+3. Commit your changes
+4. Push to local branch
+5. Open a pull request
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [Shadch/ui](https://ui.shadcn.com/docs) - UI Component system
-- [Tailwind](https://tailwindcss.com/) - PostCSS styling tool
-  
-## Deploy on Vercel
+<!-- License -->
+## License
+Distributed under the GNU General Public License. See `LICENSE` for more information.
 
-With every Pull request a deploy will be made on vercel, for testing purposes, this features includes the posibility to add comments on the deploy to see the comments in a more interactive way
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- Contact -->
+## Contact
+If you need to contact any staff, here's our info:
+[**Whatsapp Group**](https://chat.whatsapp.com/CIeALaxFs1o80hkf1Zgtgt)
+- Miguel Nguyen: [msninmx@gmail.com](msninmx@gmail.com)
+
+<!-- Links and Images -->
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[TailwindCSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com/
+[Shadcn.ui]: https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=slashdot&logoColor=white
+[Shadcn.ui-url]: https://ui.shadcn.com/
