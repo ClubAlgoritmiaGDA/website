@@ -8,7 +8,7 @@ const buttonVariants = cva(
     {
         variants: {
             variant: {
-                default: 'bg-black text-slate-50 hover:bg-black/80',
+                default: 'bg-[#F5F5DC] text-black hover:[#F5F5DC]/80',
                 destructive: 'bg-red-500 text-slate-50 hover:bg-red-500/90',
                 outline:
                     'border border-slate-200 bg-white hover:bg-slate-100 hover:text-slate-900 dark:border-slate-800',
@@ -33,7 +33,7 @@ const buttonVariants = cva(
 
 export interface ButtonProps
     extends React.ButtonHTMLAttributes<HTMLButtonElement>,
-        VariantProps<typeof buttonVariants> {
+    VariantProps<typeof buttonVariants> {
     // eslint-disable-next-line react/require-default-props
     asChild?: boolean
 }
