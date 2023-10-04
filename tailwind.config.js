@@ -18,6 +18,7 @@ module.exports = {
         extend: {
             colors: {
                 'algoritmia-blue': '#0F1E2F',
+                'algoritmia-white': '#F5F5DC',
             },
             keyframes: {
                 'accordion-down': {
